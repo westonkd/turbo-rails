@@ -24,8 +24,8 @@
     js-tokens "^4.0.0"
 
 "@hotwired/turbo@git://github.com/westonkd/turbo.git":
-  version "7.1.1"
-  resolved "git://github.com/westonkd/turbo.git#f271347f03033b01727e29ae69c2535d109302ce"
+  version "7.1.2"
+  resolved "git://github.com/westonkd/turbo.git#f0436d6cdf519d65be4294ea71abae516fa67dbc"
 
 "@rails/actioncable@^7.0":
   version "7.0.1"
